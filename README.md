@@ -10,6 +10,15 @@
 <h4>Rahul Dey</h4>
 <h4>Subhrojoti Nag</h4>
 
+<h4 align='left'>
+<a href='https://github.com/RahulDey25/entertainment-app' target="_blank">My Git Repo 
+</a>
+</h4>
+
+<h4 align='left'>
+<a href='https://github.com/Subhrojoti/Entertainment-App' target="_blank">Collaboration Git Repo 
+</a>
+</h4>
 
 ## Table of Contents
 
