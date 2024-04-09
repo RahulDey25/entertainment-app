@@ -19,7 +19,7 @@ mongoose.connect(DATABASE_URL, {
 });
 
 // Endpoint for user signup
-app.post("/signup", async (req, res) => {
+app.post("https://entertainment-app-g72j.onrender.com/signup", async (req, res) => {
   try {
     const { email, password } = req.body;
 
@@ -44,7 +44,7 @@ app.post("/signup", async (req, res) => {
 });
 
 // Endpoint for user login
-app.post("/login", async (req, res) => {
+app.post("https://entertainment-app-g72j.onrender.com/login", async (req, res) => {
   try {
     const { email, password } = req.body;
 
