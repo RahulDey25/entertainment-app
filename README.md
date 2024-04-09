@@ -10,6 +10,7 @@
 <h4>Rahul Dey</h4>
 <h4>Subhrojoti Nag</h4>
 
+## Git Repositories
 <h4 align='left'>
 <a href='https://github.com/RahulDey25/entertainment-app' target="_blank">My Git Repo 
 </a>
